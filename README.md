@@ -1,0 +1,6 @@
+# Reflection
+1. I've chosen the bento grid FrontEnd Mentor [challenge](https://www.frontendmentor.io/solutions/bento-grid-tCyf0fMFT5).
+2. I've spent a lot of time figuring out the grid.That was the hardest part. It felt like bootstrap wasn't the best option for this problem. I now realise I haven't used card components where I probably should have. After making the grid I struggled a lot with aligning paddings and margins. Maybe, using cards would've simplified the process for me. I didn't have the time to check, unfortunately.
+3. I'm still not sure how I should make the columns stretch so I get the perfect rectangle shape.
+4. The margins and paddings make the grid un-even on mobile, but at least the items are in the order the challenge intended, with the left column appearing last in mobile version.
+5. If given more time, I think I would add cards. Still not too sure that would fix the stretching of the columns vertically. Mines stretch horizontally instead and I'm not sure why. Maybe I should have set the width of the columns differently.
